@@ -1,0 +1,115 @@
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\bin\Debug\ERP.exe.config
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\bin\Debug\ERP.exe
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\bin\Debug\ERP.pdb
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\bin\Debug\Zen.Barcode.Core.dll
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\Üretim Takip Sistemi.csprojAssemblyReference.cache
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.Ana_Ekran.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.A_H.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.Barkod.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.Cikan_Listesi.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.Kalıp_Raflari.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.login.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.Muhafaza_Stok_Listesi.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.Properties.Resources.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.Rezistans_Stok_Listesi.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.Sevkiyat.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.Sevkiyat_Bul.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.Sevkiyat_CikanListesi.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.Sevkiyat_StokListesi.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.Sevkiyat_Stok_Kartı.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.Sevkiyat_Urun_Gecmisi.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.Stok_Kartı.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.Stok_Listesi.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.Urun_Cikart.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.Urun_Giris_Cikis.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.Urun_G_C_Bul.resources
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\Üretim Takip Sistemi.csproj.GenerateResource.cache
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\Üretim Takip Sistemi.csproj.CopyComplete
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.exe
+D:\C# çalışmaları\EMAS2 - Kopya\ERP\ERP\obj\Debug\ERP.pdb
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\bin\Debug\ÜretimTakipSistemi.exe.config
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\bin\Debug\ÜretimTakipSistemi.exe
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\bin\Debug\ÜretimTakipSistemi.pdb
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\bin\Debug\Zen.Barcode.Core.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\Üretim Takip Sistemi.csprojAssemblyReference.cache
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.Ana_Ekran.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.A_H.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.Barkod.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.Cikan_Listesi.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.Kalıp_Raflari.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.login.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.Muhafaza_Stok_Listesi.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ÜretimTakipSistemi.Properties.Resources.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.Rezistans_Stok_Listesi.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.Sevkiyat.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.Sevkiyat_Bul.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.Sevkiyat_CikanListesi.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.Sevkiyat_StokListesi.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.Sevkiyat_Stok_Kartı.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.Sevkiyat_Urun_Gecmisi.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.Stok_Kartı.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.Stok_Listesi.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.Urun_Cikart.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.Urun_Giris_Cikis.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ERP.Urun_G_C_Bul.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\Üretim Takip Sistemi.csproj.GenerateResource.cache
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\Üretim Takip Sistemi.csproj.CopyComplete
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ÜretimTakipSistemi.exe
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ERP\obj\Debug\ÜretimTakipSistemi.pdb
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\bin\Debug\ÜretimTakipSistemi.exe.config
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\bin\Debug\ÜretimTakipSistemi.exe
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\bin\Debug\ÜretimTakipSistemi.pdb
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\bin\Debug\Zen.Barcode.Core.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Ana_Ekran.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.A_H.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Barkod.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Cikan_Listesi.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.login.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Muhafaza_Stok_Listesi.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Properties.Resources.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Rezistans_Stok_Listesi.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Sevkiyat.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Sevkiyat_Bul.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Sevkiyat_CikanListesi.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Sevkiyat_StokListesi.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Sevkiyat_Stok_Kartı.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Sevkiyat_Urun_Gecmisi.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Stok_Kartı.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Stok_Listesi.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Urun_Cikart.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Urun_Giris_Cikis.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Urun_G_C_Bul.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\Üretim Takip Sistemi.csproj.GenerateResource.cache
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\Üretim Takip Sistemi.csproj.CopyComplete
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.exe
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.pdb
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\Üretim Takip Sistemi.csprojAssemblyReference.cache
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Sevkiyat_Depo_Stok_Listesi.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Sevkiyat_Depo_Urun_Gecmisi.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Rez_Muh_Urun_Gec.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.SacAmbari_Gecmis_TümList.resources
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi\obj\Debug\ÜretimTakipSistemi.Press_Bolumu.resources

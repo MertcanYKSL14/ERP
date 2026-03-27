@@ -1,0 +1,445 @@
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.pdb
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csprojAssemblyReference.cache
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.pdb
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.pdb
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.xml
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csproj.CopyComplete
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll.config
+C:\Users\SMS-14\Desktop\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll.config
+C:\Users\SMS-14\Desktop\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll
+C:\Users\SMS-14\Desktop\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.pdb
+C:\Users\SMS-14\Desktop\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\SMS-14\Desktop\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SMS-14\Desktop\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.dll
+C:\Users\SMS-14\Desktop\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.pdb
+C:\Users\SMS-14\Desktop\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\SMS-14\Desktop\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SMS-14\Desktop\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csprojAssemblyReference.cache
+C:\Users\SMS-14\Desktop\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csproj.CopyComplete
+C:\Users\SMS-14\Desktop\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.dll
+C:\Users\SMS-14\Desktop\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.pdb
+C:\Users\mertc\Desktop\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll.config
+C:\Users\mertc\Desktop\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll
+C:\Users\mertc\Desktop\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.pdb
+C:\Users\mertc\Desktop\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\mertc\Desktop\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mertc\Desktop\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.dll
+C:\Users\mertc\Desktop\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.pdb
+C:\Users\mertc\Desktop\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\mertc\Desktop\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mertc\Desktop\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mertc\Desktop\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mertc\Desktop\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\obj\Debug\_retimTa.762F82A1.Up2Date
+C:\Users\mertc\Desktop\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.dll
+C:\Users\mertc\Desktop\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.pdb
+C:\Users\mertc\Desktop\Üretim Takip Sistemi\ÜretimTakipSistemi.DataAccess\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll.config
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.pdb
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.pdb
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\obj\Debug\_retimTa.762F82A1.Up2Date
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.pdb
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll.config
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.pdb
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\MaterialSkin.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.pdb
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csprojAssemblyReference.cache
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csproj.CopyComplete
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.pdb
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.pdb
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Buffers.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Memory.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Buffers.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Memory.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.Parser.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelNumberFormat.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\RBush.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\SixLabors.Fonts.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.dll.config
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.pdb
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.Parser.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelNumberFormat.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\RBush.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\SixLabors.Fonts.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.Parser.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\RBush.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\SixLabors.Fonts.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.dll.config
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.pdb
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.Parser.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.pdb
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\RBush.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\SixLabors.Fonts.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi Ocak2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll.config
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.pdb
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.Parser.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\RBush.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\SixLabors.Fonts.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.pdb
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.dll.config
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.pdb
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.Parser.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.pdb
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\RBush.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\SixLabors.Fonts.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\_retimTa.762F82A1.Up2Date
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.dll
+C:\Users\User\Desktop\Yedek\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.pdb
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll.config
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.pdb
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.Parser.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelNumberFormat.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\MaterialSkin.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\RBush.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\SixLabors.Fonts.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Buffers.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Memory.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.pdb
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.dll.config
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.pdb
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.Parser.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.pdb
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelNumberFormat.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\RBush.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\SixLabors.Fonts.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Buffers.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Memory.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csprojAssemblyReference.cache
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csproj.CopyComplete
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.pdb
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll.config
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.pdb
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.Parser.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.Interfaces.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelNumberFormat.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\FontAwesome.Sharp.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\MaterialSkin.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\RBush.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\SixLabors.Fonts.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Buffers.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Memory.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Numerics.Vectors.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.pdb
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.dll.config
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.pdb
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.Parser.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.pdb
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelNumberFormat.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\RBush.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\SixLabors.Fonts.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Buffers.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Memory.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Numerics.Vectors.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csproj.AssemblyReference.cache
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csproj.CoreCompileInputs.cache
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\_retimTa.762F82A1.Up2Date
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.dll
+D:\Üretim Takip Sistemi 2026 Guncel\TAM DOSYALAR\Üretim Takip Sistemi Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.pdb
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll.config
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.pdb
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.Parser.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\RBush.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\SixLabors.Fonts.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.pdb
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.dll.config
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.pdb
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.Parser.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.pdb
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\RBush.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\SixLabors.Fonts.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\_retimTa.762F82A1.Up2Date
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 26 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.pdb
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll.config
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.DataAccess.pdb
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.Parser.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\RBush.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\SixLabors.Fonts.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.pdb
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ÜretimTakipSistemi.Entities.dll.config
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.pdb
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ClosedXML.Parser.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\EPPlus.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.pdb
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\RBush.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\SixLabors.Fonts.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\_retimTa.762F82A1.Up2Date
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.dll
+C:\Users\User\Desktop\Üretim Takip Sistemi 27 Mart 2026\Üretim Takip Sistemi Mart2026\ÜretimTakipSistemi.DataAccess\obj\Debug\ÜretimTakipSistemi.DataAccess.pdb

@@ -1,0 +1,26 @@
+## Visual Studio Kaynak Dosyaları
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.sln.docstates
+
+## NuGet Paketleri
+packages/
+*.nuget.props
+*.nuget.targets
+
+## Test ve Log Dosyaları
+TestResults/
+*.log
+*.tmp
+
+## Veritabanı Dosyaları (Yerel SQL Server kullanıyorsan)
+*.mdf
+*.ldf
+*.sdf
+
+## Diğer Gereksizler
+.DS_Store
+Thumbs.db

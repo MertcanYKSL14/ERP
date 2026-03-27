@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5578FC2B-BBC8-4145-87E5-3520F2E9DB2D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ÜretimTakipSistemi.BusinessLogic</RootNamespace>
+    <AssemblyName>ÜretimTakipSistemi.BusinessLogic</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BastamaExcelExport, Version=1.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\EbubekirBastama.BastamaExcelExport.1.1.2\lib\BastamaExcelExport.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.16.0.18925.20022\lib\net40\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Ninject, Version=3.3.4.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.3.3.4\lib\net45\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abstract\IPressDurumService.cs" />
+    <Compile Include="Abstract\IPresslerService.cs" />
+    <Compile Include="Abstract\IPressTakipDurumService.cs" />
+    <Compile Include="Abstract\IPressTakipSayacGecmisService.cs" />
+    <Compile Include="Abstract\IPressTakipSayacService.cs" />
+    <Compile Include="Abstract\ISacAmbariBarkodService.cs" />
+    <Compile Include="Abstract\ISacAmbariStokKartiService.cs" />
+    <Compile Include="Abstract\ISacAmbariStokListesiService.cs" />
+    <Compile Include="Abstract\ISacAmbariUrunGecmisiService.cs" />
+    <Compile Include="Abstract\IUrunlerService.cs" />
+    <Compile Include="Concrete\PressDurumManager.cs" />
+    <Compile Include="Concrete\PresslerManager.cs" />
+    <Compile Include="Concrete\PressTakipDurumManager.cs" />
+    <Compile Include="Concrete\PressTakipSayacGecmisManager.cs" />
+    <Compile Include="Concrete\PressTakipSayacManager.cs" />
+    <Compile Include="Concrete\SacAmbariBarkodManager.cs" />
+    <Compile Include="Concrete\SacAmbariStokKartiManager.cs" />
+    <Compile Include="Concrete\SacAmbariStokListesiManager.cs" />
+    <Compile Include="Concrete\SacAmbariUrunGecmisiManager.cs" />
+    <Compile Include="Concrete\UrunlerManager.cs" />
+    <Compile Include="DependencyInjectionTools\Ninject\BusinessModule.cs" />
+    <Compile Include="DependencyInjectionTools\Ninject\InstanceFactory.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ÜretimTakipSistemi.DataAccess\ÜretimTakipSistemi.DataAccess.csproj">
+      <Project>{64c2de4b-b75a-43e3-addd-4196dce5dd3b}</Project>
+      <Name>ÜretimTakipSistemi.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ÜretimTakipSistemi.Entities\ÜretimTakipSistemi.Entities.csproj">
+      <Project>{74f9f0e5-220e-4a0f-8b26-431395cffbb6}</Project>
+      <Name>ÜretimTakipSistemi.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

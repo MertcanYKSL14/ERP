@@ -1,0 +1,15 @@
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.Entities\bin\Debug\ÜretimTakipSistemi.Entities.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.Entities\bin\Debug\ÜretimTakipSistemi.Entities.pdb
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.Entities\obj\Debug\ÜretimTakipSistemi.Entities.csprojAssemblyReference.cache
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.Entities\obj\Debug\ÜretimTakipSistemi.Entities.dll
+D:\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.Entities\obj\Debug\ÜretimTakipSistemi.Entities.pdb
+C:\Users\SMS-14\Desktop\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.Entities\bin\Debug\ÜretimTakipSistemi.Entities.dll
+C:\Users\SMS-14\Desktop\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.Entities\bin\Debug\ÜretimTakipSistemi.Entities.pdb
+C:\Users\SMS-14\Desktop\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.Entities\obj\Debug\ÜretimTakipSistemi.Entities.csprojAssemblyReference.cache
+C:\Users\SMS-14\Desktop\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.Entities\obj\Debug\ÜretimTakipSistemi.Entities.dll
+C:\Users\SMS-14\Desktop\C# çalışmaları\Üretim Takip Sistemi\Üretim Takip Sistemi\ÜretimTakipSistemi.Entities\obj\Debug\ÜretimTakipSistemi.Entities.pdb
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\Üretim Takip Sistemi\ÜretimTakipSistemi.Entities\bin\Debug\ÜretimTakipSistemi.Entities.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\Üretim Takip Sistemi\ÜretimTakipSistemi.Entities\bin\Debug\ÜretimTakipSistemi.Entities.pdb
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\Üretim Takip Sistemi\ÜretimTakipSistemi.Entities\obj\Debug\ÜretimTakipSistemi.Entities.csprojAssemblyReference.cache
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\Üretim Takip Sistemi\ÜretimTakipSistemi.Entities\obj\Debug\ÜretimTakipSistemi.Entities.dll
+C:\Users\SMS-14\Desktop\Üretim Takip Sistemi Ocak2026\Üretim Takip Sistemi\ÜretimTakipSistemi.Entities\obj\Debug\ÜretimTakipSistemi.Entities.pdb
